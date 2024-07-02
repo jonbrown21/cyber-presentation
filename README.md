@@ -2,7 +2,7 @@
 MacAdmins PSU Cybersecurity is more than just the right Tools
 
 
-#Useful Links
+# Useful Links
 
 - https://www.nytimes.com/wirecutter/blog/state-of-privacy-laws-in-us
 - https://www.itgovernanceusa.com/data-breach-notification-laws
